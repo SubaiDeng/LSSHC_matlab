@@ -31,5 +31,6 @@ Run `demo.m`
 1. The python version is available at
     https://github.com/SubaiDeng/LSSHC_python
 2. In our framework, part of the code is from CAI's work[1], such as litekmeans, approximateSVD.
-     [1] Deng Cai, Xinlei Chen:Large Scale Spectral Clustering Via Landmark-Based Sparse Representation. IEEE Trans. Cybern. 45(8): 1669-1680 (2015)
+
+[1] Deng Cai, Xinlei Chen:Large Scale Spectral Clustering Via Landmark-Based Sparse Representation. IEEE Trans. Cybern. 45(8): 1669-1680 (2015)
 
